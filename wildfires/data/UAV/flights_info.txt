@@ -1,0 +1,8 @@
+Case study	 | Date of wildfire	  | Latitude   | Longitude
+Limache	     | January 9, 2019	  |32°59’21” S | 71°13’50” W
+Rodelillo	   | November 18, 2019	| 33°3’12” S |  71°35’0” W
+Rocuant	     | December 24, 2019	| 33°4’27” S |  71°35’22” W
+Quilpué 	   | January 15, 2021	  | 33°4’51” S |  71°25’0” W
+Laguna Verde | March 30, 2022	    | 33°8’24” S |  71°40’58” W
+Melipilla	   | December 11, 2022	| 33°47’58”S |  71°18’2” W
+Viña del Mar | December 22, 2022	| 33°2’44” S |  71°33’10” W
