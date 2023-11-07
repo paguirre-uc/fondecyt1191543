@@ -1,8 +1,8 @@
 # Integración de percepción remota y datos directos para el modelamiento dinámico y multi-escala de exposición urbana ante terremotos, aluviones e incendios en la interfaz urbano-rural
 
-# Integration of Remote Sensing and Direct Data for Multi-Scale, Dynamic Mapping of Urban Exposure to Earthquake, Mudflow and Fire Hazards.
+Este repositorio contiene los datos y códigos desarrollados en el marco del a investigación del proyecto Fondecyt Regular 1191543.
 
-Este repositorio contiene los datos y códigos desarrollados en el marco del a investigación del proyecto FOndecyt Regular 1191543.
+## Título original en inglés: Integration of Remote Sensing and Direct Data for Multi-Scale, Dynamic Mapping of Urban Exposure to Earthquake, Mudflow and Fire Hazards.
 
 ## Resumen del proyecto.
 
