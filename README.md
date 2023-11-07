@@ -1,6 +1,10 @@
-# “Integration of Remote Sensing and Direct Data for Multi-Scale, Dynamic Mapping of Urban Exposure to Earthquake, Mudflow and Fire Hazards”.
+# Integración de percepción remota y datos directos para el modelamiento dinámico y multi-escala de exposición urbana ante terremotos, aluviones e incendios en la interfaz urbano-rural![image](https://github.com/paguirre-uc/fondecyt1191543/assets/81326650/afc39f96-1219-4ffb-95cd-170d1b98b47f)
 
-This repository containes the data and codes developed under research project FONDECYT 1191543.
+# Integration of Remote Sensing and Direct Data for Multi-Scale, Dynamic Mapping of Urban Exposure to Earthquake, Mudflow and Fire Hazards.
+
+Este repositorio contiene los datos y códigos desarrollados en el marco del a investigación del proyecto FOndecyt Regular 1191543.
+
+## Resumen del proyecto.
 
 En la próxima década, alrededor del 90% de la población chilena vivirá en áreas urbanas. A medida que la urbanización global avanza, las ciudades se hacen particularmente vulnerables a desastres gatillados por amenazas naturales o antrópicas, como consecuencia de la concentración de población, bienes e infraestructura en zonas expuestas, combinadas con condiciones subyacentes de vulnerabilidad. Por otra parte, Chile se ve afectado recurrentemente por eventos extremos como terremotos, incendios y aluviones gatillados por lluvias intensas, que amenazan cada vez más frecuentemente los entornos urbanos resultando en un creciente riesgo de desastres. Por ello, se hace necesario avanzar en la implementación de metodologías robustas y escalables de evaluación de impactos y riesgos, de manera de comprender y evaluar el potencial impacto sobre entornos urbanos a distintas escalas espaciales y temporales, y contribuir así a una mayor resiliencia. 
 Dentro del marco metodológico de evaluación de riesgo de desastres, son claves el modelamiento del entorno físico y social expuesto, denominado “modelo de exposición”, y la caracterización de sus vulnerabilidades ante distintas amenazas naturales y antrópicas. Este proyecto abordó el desarrollo de un marco teórico y tecnológico para el desarrollo de modelos dinámicos y multi-escala de exposición urbana ante, terremotos e incendios en la interfaz urbano-rural,  integrando fuentes de datos públicas, locales y percepción remota, de manera de capturar la evolución espacio-temporal del entorno físico y humano, para así monitorear el nivel de riesgo urbano. El proyecto comprendió  las siguientes etapas:
