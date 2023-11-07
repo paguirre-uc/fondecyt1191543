@@ -5,8 +5,8 @@ Este repositorio contiene los datos y códigos desarrollados en el marco del a i
 ## 1. Información del proyecto.
 
 - Título original: Integration of Remote Sensing and Direct Data for Multi-Scale, Dynamic Mapping of Urban Exposure to Earthquake, Mudflow and Fire Hazards.
-- Investigadora principal: Paula Aguirre Aparicio, paaguirr@uc.cl
-- Co-investigadores: Jorge León Canales [https://scholar.google.com/citations?hl=en&user=vmWcwlQAAAAJ&view_op=list_works&sortby=pubdate] , Hernán Santa María Oyanedel.
+- Investigadora principal: [Paula Aguirre Aparicio](https://scholar.google.com/citations?hl=en&user=74k6Df8AAAAJ), paaguirr@uc.cl
+- Co-investigadores: [Jorge León Canales](https://scholar.google.com/citations?hl=en&user=vmWcwlQAAAAJ&view_op=list_works&sortby=pubdate) , [Hernán Santa María Oyanedel](https://www.ing.uc.cl/academicos-e-investigadores/hernan-santa-maria-oyanedel/).
 - Financiamento: ANID Fondecyt Regular 1191543.
 
 ## 2. Resumen del proyecto.
