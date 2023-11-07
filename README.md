@@ -2,7 +2,12 @@
 
 Este repositorio contiene los datos y códigos desarrollados en el marco del a investigación del proyecto Fondecyt Regular 1191543.
 
-## Título original en inglés: Integration of Remote Sensing and Direct Data for Multi-Scale, Dynamic Mapping of Urban Exposure to Earthquake, Mudflow and Fire Hazards.
+## 1. Información del proyecto.
+
+- Título original: Integration of Remote Sensing and Direct Data for Multi-Scale, Dynamic Mapping of Urban Exposure to Earthquake, Mudflow and Fire Hazards.
+- Investigadora principal: Paula Aguirre Aparicio, paaguirr@uc.cl
+- Co-investigadores: Jorge León Canales, Hernán Santa María Oyanedel.
+- Financiamento: ANID Fondecyt Regular 1191543.
 
 ## Resumen del proyecto.
 
