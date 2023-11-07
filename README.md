@@ -1,4 +1,4 @@
-# Integración de percepción remota y datos directos para el modelamiento dinámico y multi-escala de exposición urbana ante terremotos, aluviones e incendios en la interfaz urbano-rural![image](https://github.com/paguirre-uc/fondecyt1191543/assets/81326650/afc39f96-1219-4ffb-95cd-170d1b98b47f)
+# Integración de percepción remota y datos directos para el modelamiento dinámico y multi-escala de exposición urbana ante terremotos, aluviones e incendios en la interfaz urbano-rural
 
 # Integration of Remote Sensing and Direct Data for Multi-Scale, Dynamic Mapping of Urban Exposure to Earthquake, Mudflow and Fire Hazards.
 
